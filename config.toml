@@ -1,5 +1,5 @@
 title = "Hello"
-baseURL = "http://steve.zinck.ca"
+baseURL = "https://steve.zinck.ca"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = 'themes/'
