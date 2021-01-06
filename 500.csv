@@ -1,0 +1,500 @@
+Absence_Date,Absence_Type_Category,Absence_Type,Absence_Hours,Employee_Type,Gender,Age_Cohort_on_Absence_Date
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Non-Union,Male,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,8,Union,Male,65+
+04/01/2014,Short Term Illness,Short Term Illness,9,Union,Male,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,9,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7.75,Union,Female,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7.5,Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,7.5,Union,Female,60 - 64
+04/01/2014,General Illness,General Illness,7.5,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,3,Non-Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,7.75,Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,7.75,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7,Non-Union,Male,50 - 54
+04/01/2014,General Illness,General Illness,7,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Ease Back Leave,4,Non-Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,1.25,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7.5,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,7.5,Union,Male,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,65+
+04/01/2014,General Illness,General Illness,12,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,12,Union,Male,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,55 - 59
+04/01/2014,Short Term Illness,Ease Back Leave,3.5,Union,Female,50 - 54
+04/01/2014,Family Illness,Family Illness - Bank,3.5,Union,Male,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,8,Union,Male,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,8,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,9,Union,Male,55 - 59
+04/01/2014,General Illness,General Illness,9,Union,Male,50 - 54
+04/01/2014,General Illness,General Illness,7.5,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,12,Union,Male,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,3,Non-Union,Male,45 - 49
+04/01/2014,General Illness,General Illness,7.5,Non-Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,55 - 59
+04/01/2014,Short Term Illness,Ease Back Leave,7.5,Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,11,Union,Female,30 - 34
+04/01/2014,Family Illness,Family Illness - Bank,4,Non-Union,Male,35 - 39
+04/01/2014,General Illness,General Illness,7,Non-Union,Female,35 - 39
+04/01/2014,Family Illness,Family Illness - Bank,1.5,Union,Male,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,9,Union,Male,45 - 49
+04/01/2014,General Illness,General Illness,7.5,Non-Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Male,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Union,Female,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Non-Union,Female,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,9,Union,Male,50 - 54
+04/01/2014,Short Term Illness,Ease Back Leave,2.5,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Union,Female,55 - 59
+04/01/2014,Family Illness,Family Illness - Bank,3.5,Non-Union,Male,50 - 54
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,3.25,Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,8,Union,Female,55 - 59
+04/01/2014,Medical Appointment,Medical Appointment,7.75,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,8.5,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,8,Union,Male,50 - 54
+04/01/2014,General Illness,General Illness,7.5,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,1.5,Union,Male,65+
+04/01/2014,Medical Appointment,Medical Appointment,2,Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,1.25,Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Female,55 - 59
+04/01/2014,General Illness,General Illness,8,Union,Male,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,2.5,Union,Female,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Male,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,1,Non-Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,9,Union,Male,50 - 54
+04/01/2014,Family Illness,Family Illness - Bank,9,Union,Male,40 - 44
+04/01/2014,General Illness,General Illness,7.5,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,9,Union,Male,50 - 54
+04/01/2014,General Illness,General Illness,7.5,Union,Male,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,55 - 59
+04/01/2014,Medical Appointment,Medical Appointment,1.25,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Male,55 - 59
+04/01/2014,General Illness,General Illness,7.75,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,5.5,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7,Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,7.5,Union,Male,35 - 39
+04/01/2014,General Illness,General Illness,8,Union,Male,45 - 49
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,2.5,Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7,Union,Male,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Male,40 - 44
+04/01/2014,General Illness,General Illness,7.75,Union,Female,40 - 44
+04/01/2014,Family Illness,Family Illness - Bank,2,Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,7,Union,Female,30 - 34
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Male,45 - 49
+04/01/2014,Family Illness,Family Illness - Bank,0.5,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,8,Union,Male,55 - 59
+04/01/2014,Medical Appointment,Medical Appointment,4,Union,Male,35 - 39
+04/01/2014,General Illness,General Illness,3,Union,Male,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,6,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,7.75,Union,Female,35 - 39
+04/01/2014,Family Illness,Family Illness - Bank,4,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,0.5,Non-Union,Female,55 - 59
+04/01/2014,General Illness,General Illness,7.5,Non-Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.75,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Non-Union,Female,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,25 - 29
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,8,Union,Male,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Non-Union,Female,60 - 64
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Female,35 - 39
+04/01/2014,Family Illness,Family Illness - Bank,2,Union,Female,45 - 49
+04/01/2014,Family Illness,Family Illness - Bank,4.5,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7,Non-Union,Female,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,2,Non-Union,Female,35 - 39
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7,Union,Female,65+
+04/01/2014,Medical Appointment,Medical Appointment,3.25,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7,Non-Union,Female,55 - 59
+04/01/2014,General Illness,General Illness,7,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7,Union,Female,35 - 39
+04/01/2014,Family Illness,Family Illness - Bank,8,Union,Male,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Ease Back Leave,3.5,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7,Union,Male,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,3,Union,Female,55 - 59
+04/01/2014,General Illness,General Illness,7.75,Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,2.5,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7.75,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Ease Back Leave,7.5,Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Ease Back Leave,7,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Male,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,2.5,Non-Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,5.5,Union,Female,55 - 59
+04/01/2014,Medical Appointment,Medical Appointment,3.5,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,0.5,Non-Union,Female,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Female,30 - 34
+04/01/2014,Family Illness,Family Illness - Bank,1.5,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7,Non-Union,Male,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,7,Non-Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,7.5,Union,Female,25 - 29
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Ease Back Leave,3.5,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,5.5,Union,Female,25 - 29
+04/01/2014,Medical Appointment,Medical Appointment,2,Union,Female,25 - 29
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Male,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,6,Union,Female,55 - 59
+04/01/2014,Medical Appointment,Medical Appointment,1.25,Union,Female,35 - 39
+04/01/2014,Family Illness,Family Illness - Bank,7,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,7,Non-Union,Female,35 - 39
+04/01/2014,Family Illness,Family Illness - Bank,1.15,Union,Female,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Union,Male,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,0.5,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7.5,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,5,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Union,Female,25 - 29
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7.5,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7,Union,Female,25 - 29
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,4,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,2.5,Union,Female,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Male,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Male,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Female,60 - 64
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,60 - 64
+04/01/2014,Medical Appointment,Medical Appointment,1.25,Union,Male,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,1.75,Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,2,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7.75,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,7,Non-Union,Female,60 - 64
+04/01/2014,Medical Appointment,Medical Appointment,1.75,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,2,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,0.75,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7.5,Union,Female,55 - 59
+04/01/2014,Medical Appointment,Medical Appointment,2,Union,Male,60 - 64
+04/01/2014,Medical Appointment,Medical Appointment,3.75,Union,Male,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,0.75,Union,Female,60 - 64
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,9,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,8,Union,Male,25 - 29
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Non-Union,Female,60 - 64
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Male,35 - 39
+04/01/2014,General Illness,General Illness,1,Union,Female,55 - 59
+04/01/2014,Short Term Illness,Ease Back Leave,4.75,Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Non-Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,7.5,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Union,Female,65+
+04/01/2014,General Illness,General Illness,7,Non-Union,Male,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Male,45 - 49
+04/01/2014,General Illness,General Illness,7.5,Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Male,30 - 34
+04/01/2014,Short Term Illness,STI - Ongoing Treatment,3,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,4,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,2.5,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Ease Back Leave,2.5,Union,Female,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,2,Non-Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,7,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Non-Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,8,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Non-Union,Male,30 - 34
+04/01/2014,Family Illness,Family Illness - Bank,6,Union,Male,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,3,Union,Female,55 - 59
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Male,45 - 49
+04/01/2014,Short Term Illness,Ease Back Leave,7.5,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,3.5,Union,Female,25 - 29
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Non-Union,Female,50 - 54
+04/01/2014,Family Illness,Family Illness - Bank,2.5,Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,35 - 39
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,55 - 59
+04/01/2014,General Illness,General Illness,7,Union,Male,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,2,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,55 - 59
+04/01/2014,General Illness,General Illness,7,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,6.56,Union,Female,30 - 34
+04/01/2014,Family Illness,Family Illness - Bank,12,Union,Male,30 - 34
+04/01/2014,General Illness,General Illness,9,Union,Male,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,50 - 54
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7.5,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Non-Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,9,Union,Male,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,9,Union,Male,40 - 44
+04/01/2014,General Illness,General Illness,7.5,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,2.5,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7,Union,Male,45 - 49
+04/01/2014,Family Illness,Family Illness - Bank,3,Union,Female,45 - 49
+04/01/2014,Family Illness,Family Illness - Bank,3,Union,Female,55 - 59
+04/01/2014,General Illness,General Illness,7.5,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,45 - 49
+04/01/2014,Family Illness,Family Illness - Bank,7.75,Non-Union,Female,65+
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Male,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,1.5,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Non-Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,2.5,Union,Male,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,7,Union,Male,60 - 64
+04/01/2014,Medical Appointment,Medical Appointment,0.5,Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,2.5,Union,Male,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,12,Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,2.5,Union,Male,60 - 64
+04/01/2014,Medical Appointment,Medical Appointment,2,Union,Male,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7.5,Union,Female,60 - 64
+04/01/2014,General Illness,General Illness,7.75,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,0.5,Union,Female,40 - 44
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Male,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,3.5,Union,Male,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,25 - 29
+04/01/2014,General Illness,General Illness,7,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,9,Union,Male,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Female,60 - 64
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,1.75,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7,Union,Male,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Female,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,12,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Male,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,6.62,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,7.5,Union,Male,35 - 39
+04/01/2014,General Illness,General Illness,7.5,Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,2.25,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,35 - 39
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Non-Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,7.5,Union,Female,60 - 64
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Male,40 - 44
+04/01/2014,Family Illness,Family Illness - Bank,7.75,Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,7,Union,Female,40 - 44
+04/01/2014,Family Illness,Family Illness - Bank,7,Non-Union,Female,40 - 44
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Male,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,9,Union,Male,40 - 44
+04/01/2014,General Illness,General Illness,7.75,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Union,Female,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,1,Non-Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,1,Non-Union,Female,35 - 39
+04/01/2014,Short Term Illness,Ease Back Leave,2.5,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,7,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7.5,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Male,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,2,Union,Male,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,30 - 34
+04/01/2014,Family Illness,Family Illness - Bank,2.5,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7,Union,Female,30 - 34
+04/01/2014,Family Illness,Family Illness - Bank,7.75,Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,3.5,Union,Male,25 - 29
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,2,Union,Female,25 - 29
+04/01/2014,General Illness,General Illness,7.5,Union,Female,45 - 49
+04/01/2014,Family Illness,Family Illness - Bank,7,Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Male,35 - 39
+04/01/2014,General Illness,General Illness,7.5,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Male,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Ease Back Leave,2.5,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7.5,Union,Female,55 - 59
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Female,55 - 59
+04/01/2014,General Illness,General Illness,4,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Non-Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,2,Non-Union,Female,50 - 54
+04/01/2014,Family Illness,Family Illness - Bank,1,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7,Non-Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Male,60 - 64
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,55 - 59
+04/01/2014,General Illness,General Illness,7.75,Union,Female,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,2,Non-Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Male,25 - 29
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,7.75,Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,2.5,Union,Female,60 - 64
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,8,Union,Female,40 - 44
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Male,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,45 - 49
+04/01/2014,Family Illness,Family Illness - Bank,2.25,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7.5,Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,7.5,Union,Female,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,0.5,Union,Male,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,1.45,Union,Male,50 - 54
+04/01/2014,General Illness,General Illness,7.75,Union,Male,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Non-Union,Female,60 - 64
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,3,Union,Female,25 - 29
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,45 - 49
+04/01/2014,Family Illness,Family Illness - Bank,1.25,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,1.5,Union,Female,60 - 64
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Male,60 - 64
+04/01/2014,Short Term Illness,Ease Back Leave,7.75,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7.75,Union,Male,50 - 54
+04/01/2014,General Illness,General Illness,2,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,0.5,Non-Union,Male,40 - 44
+04/01/2014,General Illness,General Illness,2.5,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Union,Male,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Female,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Male,55 - 59
+04/01/2014,Family Illness,Family Illness - Bank,1.5,Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,50 - 54
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Male,45 - 49
+04/01/2014,General Illness,General Illness,7.75,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,3.25,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,3.5,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,0.5,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,2,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7.75,Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,2.5,Union,Male,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,12,Union,Male,35 - 39
+04/01/2014,General Illness,General Illness,4,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,10,Union,Male,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,12,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,8,Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,12,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7,Non-Union,Female,55 - 59
+04/01/2014,Medical Appointment,Medical Appointment,2.5,Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,8,Union,Male,30 - 34
+04/01/2014,General Illness,General Illness,12,Union,Male,25 - 29
+04/01/2014,General Illness,General Illness,7.75,Union,Female,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,9,Union,Male,55 - 59
+04/01/2014,General Illness,General Illness,7,Union,Female,55 - 59
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Union,Female,65+
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Ease Back Leave,1.5,Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,2,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,12,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,5,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7.75,Non-Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,8,Union,Male,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,3,Union,Male,55 - 59
+04/01/2014,General Illness,General Illness,5,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,7.53,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,8,Union,Female,25 - 29
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Non-Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,5.67,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,3,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.04,Union,Female,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,3,Union,Female,25 - 29
+04/01/2014,Medical Appointment,Medical Appointment,2.25,Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,3.5,Union,Female,25 - 29
+04/01/2014,General Illness,General Illness,2,Union,Male,45 - 49
+04/01/2014,General Illness,General Illness,7.5,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7,Non-Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,2,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,45 - 49
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Female,55 - 59
+04/01/2014,Medical Appointment,Medical Appointment,1.25,Union,Female,25 - 29
+04/01/2014,Short Term Illness,Short Term Illness,5.5,Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Non-Union,Female,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,2.5,Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,7,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,40 - 44
+04/01/2014,General Illness,General Illness,7.5,Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Female,35 - 39
+04/01/2014,Family Illness,Family Illness - Bank,7.75,Union,Male,35 - 39
+04/01/2014,General Illness,General Illness,7,Non-Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,7,Non-Union,Female,60 - 64
+04/01/2014,Short Term Illness,Ease Back Leave,7,Non-Union,Male,60 - 64
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Male,55 - 59
+04/01/2014,General Illness,General Illness,7.75,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,7,Non-Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,7.5,Union,Female,65+
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Non-Union,Male,55 - 59
+04/01/2014,General Illness,General Illness,4,Union,Male,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Male,40 - 44
+04/01/2014,Family Illness,Family Illness - Bank,1.87,Union,Male,25 - 29
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Male,35 - 39
+04/01/2014,Short Term Illness,Ease Back Leave,7.5,Non-Union,Male,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,55 - 59
+04/01/2014,General Illness,General Illness,7.5,Non-Union,Male,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,0.5,Non-Union,Female,40 - 44
+04/01/2014,Short Term Illness,Ease Back Leave,3.5,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Male,35 - 39
+04/01/2014,Medical Appointment,Medical Appointment,2,Union,Female,25 - 29
+04/01/2014,General Illness,General Illness,7,Non-Union,Male,55 - 59
+04/01/2014,Family Illness,Family Illness - Bank,2,Union,Female,35 - 39
+04/01/2014,Short Term Illness,Short Term Illness,12,Union,Male,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7,Non-Union,Female,30 - 34
+04/01/2014,General Illness,General Illness,7.5,Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Female,25 - 29
+04/01/2014,Family Illness,Family Illness - Bank,7,Union,Male,40 - 44
+04/01/2014,General Illness,General Illness,2.5,Union,Female,50 - 54
+04/01/2014,General Illness,General Illness,7.5,Union,Female,45 - 49
+04/01/2014,Family Illness,Family Illness - Bank,5.5,Union,Female,45 - 49
+04/01/2014,Family Illness,Family Illness - Bank,8,Union,Female,50 - 54
+04/01/2014,Short Term Illness,Short Term Illness,12,Union,Female,55 - 59
+04/01/2014,General Illness,General Illness,12,Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,12,Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,7,Union,Female,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,30 - 34
+04/01/2014,Medical Appointment,Medical Appointment,4,Non-Union,Female,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,1.5,Union,Male,55 - 59
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Female,40 - 44
+04/01/2014,Short Term Illness,Short Term Illness,7.5,Union,Male,50 - 54
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Male,25 - 29
+04/01/2014,General Illness,General Illness,2,Union,Male,40 - 44
+04/01/2014,Medical Appointment,Medical Appointment,5,Union,Female,35 - 39
+04/01/2014,Family Illness,Family Illness - Bank,7,Non-Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,1,Union,Female,35 - 39
+04/01/2014,Family Illness,Family Illness - Bank,7.5,Union,Female,30 - 34
+04/01/2014,Short Term Illness,Short Term Illness,7.75,Union,Female,45 - 49
+04/01/2014,General Illness,General Illness,7,Non-Union,Female,45 - 49
+04/01/2014,Short Term Illness,Short Term Illness,7,Union,Female,45 - 49
+04/01/2014,Medical Appointment,Medical Appointment,0.75,Union,Male,50 - 54
+04/01/2014,General Illness,General Illness,7,Non-Union,Male,25 - 29
+04/01/2014,General Illness,General Illness,7.5,Union,Female,25 - 29
+04/01/2014,General Illness,General Illness,7,Union,Female,25 - 29
+04/01/2014,General Illness,General Illness,7.5,Union,Female,35 - 39
+04/01/2014,General Illness,General Illness,8,Union,Male,50 - 54
+04/01/2014,General Illness,General Illness,7,Union,Female,40 - 44
